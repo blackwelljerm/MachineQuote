@@ -1,0 +1,8 @@
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\bin\WebApplication1.dll
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\bin\WebApplication1.pdb
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\jsmith\Documents\Visual Studio 2013\Projects\WebApplication1\obj\Debug\WebApplication1.pdb
